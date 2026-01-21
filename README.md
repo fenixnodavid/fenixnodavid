@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,vue,css,git,github,html=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,vue,css,git,github=3)](https://skillicons.dev)
